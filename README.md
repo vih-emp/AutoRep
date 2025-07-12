@@ -1,4 +1,4 @@
-# Program Auto-Generator
+# AutoRep - Program Auto-Generator
 
 ## Overview
 
