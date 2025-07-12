@@ -24,12 +24,11 @@ All programs in this repository are **original and AI-generated**. They are not 
 
 ## Usage
 
-1. **Set your OpenAI API key** as the `OPENAI_API_KEY` environment variable.
-2. **Run the main script** in your terminal:
+1. **Run the main script** in your terminal:
    ```sh
    python generate_logic_programs.py
    ```
-3. **Each run produces a new, original program file** in the `logic_programs/` folder, and automatically commits and pushes it to the repo.
+2. **Each run produces a new, original program file** in the `logic_programs/` folder, and automatically commits and pushes it to the repo.
 
 ## Legal and Ethical Guidelines
 
@@ -40,5 +39,3 @@ All programs in this repository are **original and AI-generated**. They are not 
 ## Contact
 
 If you have questions or concerns about this project or its content, please open an issue or contact me directly.
-
-```# AutoRep
